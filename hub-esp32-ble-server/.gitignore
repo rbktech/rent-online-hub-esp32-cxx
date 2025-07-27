@@ -1,6 +1,5 @@
 .pio
-CMakeListsPrivate.txt
-cmake-build-*/ 
+cmake-build-*/
 include
 lib
 .idea
